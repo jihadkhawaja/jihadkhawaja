@@ -1,5 +1,5 @@
 ### Jihad Khawaja
-###### Software engineer & Game developer
+###### Software & Game developer
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
 #### Languages
