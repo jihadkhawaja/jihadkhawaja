@@ -1,3 +1,4 @@
+## About me
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
 #### Languages
@@ -27,17 +28,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<br/>
-
+### Stats
 <a href="https://github.com/jihadkhawaja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihadkhawaja&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadkhawaja&theme=dark&layout=compact" />
 </a>
 
-<br/>
-
 ### Connect with Me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/channel/UCLZIaXXM5DOfL83_6sxM0Ew"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
