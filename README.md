@@ -12,11 +12,12 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 #### Frameworks
-![dotnet](https://img.shields.io/badge/-Dotnet-333333?style=flat&logo=dotnet)
+![dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=ASP.Net)
 ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=Blazor)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
-![Android Studio](https://img.shields.io/badge/-androidstudio-333333?style=flat&logo=androidstudio)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=Xamarin)
+![MAUI](https://img.shields.io/badge/-MAUI-333333?style=flat&logo=MAUI)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
