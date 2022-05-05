@@ -27,6 +27,7 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
 ### Stats
 <a href="https://github.com/jihadkhawaja">
