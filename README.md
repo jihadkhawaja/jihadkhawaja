@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihadkhawaja&theme=dark&show_icons=true" />
 </a>
 
-### Connect with Me
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
