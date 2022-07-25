@@ -40,6 +40,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
-<a href="mailto:jihadkhawaja@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-jihadkhawaja-dark?style=flat-square&logo=gmail"></a>
+<a href="mailto:contact@jihadkhawaja.com"><img alt="Email" src="https://img.shields.io/badge/Email-jihadkhawaja-dark?style=flat-square&logo=gmail"></a>
 </p>
 
