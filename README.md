@@ -13,11 +13,11 @@
 
 #### Frameworks
 ![dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
-![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=ASP.Net)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=Blazor)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=Xamarin)
-![MAUI](https://img.shields.io/badge/-MAUI-333333?style=flat&logo=MAUI)
+![MAUI](https://img.shields.io/badge/-MAUI-333333?style=flat&logo=dotnet)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
