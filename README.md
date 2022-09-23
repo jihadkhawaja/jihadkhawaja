@@ -1,4 +1,4 @@
-## About me
+## Tech stacks
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
 #### Languages
