@@ -1,4 +1,4 @@
-## Tech stacks
+## Tech Stacks
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
 #### Languages
@@ -31,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
-## Connect with me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
   <a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
