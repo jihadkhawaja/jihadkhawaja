@@ -31,15 +31,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
-### Stats
-<a href="https://github.com/jihadkhawaja">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jihadkhawaja&theme=dark&show_icons=true" />
-</a>
-
-### Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
-<a href="mailto:contact@jihadkhawaja.com"><img alt="Email" src="https://img.shields.io/badge/Email-jihadkhawaja-dark?style=flat-square&logo=gmail"></a>
+## Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
+  <a href="mailto:contact@jihadkhawaja.com"><img alt="Email" src="https://img.shields.io/badge/Email-jihadkhawaja-dark?style=flat-square&logo=gmail"></a>
 </p>
 
