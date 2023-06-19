@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
 
-#### Design Preferences
+#### Design Preference
 - [Material Design](https://m3.material.io/)
 - [Fluent UI](https://developer.microsoft.com/en-us/fluentui)
 
