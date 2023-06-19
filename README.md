@@ -1,13 +1,13 @@
 ## Tech Stacks
 
-#### Languages
+#### Language
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![CPlusPlus](https://img.shields.io/badge/-cplusplus-333333?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-#### Frameworks
+#### Framework
 ![dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
 ![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=Blazor)
