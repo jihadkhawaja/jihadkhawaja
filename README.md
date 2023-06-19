@@ -26,7 +26,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=purple)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### Connect With Me
+### Social
 <p align="left">
   <a href="https://www.linkedin.com/in/jihadkhawaja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
   <a href="https://www.youtube.com/c/JihadKhawaja"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-jihadkhawaja-dark?style=flat-square&logo=youtube"></a>
