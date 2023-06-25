@@ -19,8 +19,8 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
 
 #### Design Preference
-- [Material Design](https://m3.material.io/)
-- [Fluent UI](https://developer.microsoft.com/en-us/fluentui)
+- Material Design
+- Fluent UI
 
 #### Editor
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=purple)
