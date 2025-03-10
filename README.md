@@ -9,3 +9,5 @@ Additionally, I have proficiency in **Python** and hands-on experience with **AI
 I also have knowledge in **C++** and **embedded systems**, allowing me to work on low-level programming and hardware-related projects.  
 
 I'm always eager to try new things—**lately, I've been exploring Rust!** 🚀  
+
+**Learn more at** [www.jihadkhawaja.com](https://www.jihadkhawaja.com/)  
