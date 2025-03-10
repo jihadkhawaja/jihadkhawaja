@@ -10,4 +10,4 @@ I also have knowledge in **C++** and **embedded systems**, allowing me to work o
 
 I'm always eager to try new things—**lately, I've been exploring Rust!** 🚀  
 
-**Learn more at** [www.jihadkhawaja.com](https://www.jihadkhawaja.com/)  
+For more, check my **[Portfolio](https://www.jihadkhawaja.com/)**.   
