@@ -1,13 +1,28 @@
-# Software Development Specialist  
+# Hi there 👋
 
-I’m a dedicated **C# full-stack developer** with a strong focus on building innovative solutions using **Blazor** and **React (TypeScript)**. My expertise in **C# .NET, ASP.NET Core,** and modern web technologies enables me to craft robust, scalable applications with seamless user experiences.  
+Founder | Software & AI Architect | Automation Engineer
 
-I'm also the creator of **[Egroo](https://github.com/jihadkhawaja/Egroo)**, a **privacy-focused messaging** cross-platform application.  
+I design and build complete intelligent systems, from intuitive frontends to scalable backend infrastructure, AI-powered workflows, and automation pipelines.
 
-Additionally, I have proficiency in **Python** and hands-on experience with **AI frameworks** and **open-source models** like **Llama** and **OpenAI**, empowering me to integrate intelligent features into my projects.  
+My expertise lies in:
 
-I also have knowledge in **C++** and **embedded systems**, allowing me to work on low-level programming and hardware-related projects.  
+- **Languages:** C#/.NET, JavaScript/TypeScript, C++, Rust
+- **Frameworks/Libraries:** Blazor, React, Node.js
+- **AI/ML:** LLM integration (OpenAI, llama.cpp, custom tooling)
+- **Other:** Strong architectural design, smart automation (testing, CI/CD, internal processes), embedded systems, low-level programming
 
-I'm always eager to try new things—**lately, I've been exploring Rust!** 🚀  
+I focus on blending strong architecture with smart automation, optimizing everything from test generation to internal company processes.
 
-For more, check my **[Portfolio](https://www.jihadkhawaja.com/)**.   
+## My Projects:
+
+- **Picotat:** A Discord bot hosting platform with built-in plugin management and community tools ([https://www.picotat.com](https://www.picotat.com))
+- **Egroo:** A privacy-first, cross-platform messaging platform
+- **llama.grammar:** A lightweight, expressive grammar engine for controlling LLM outputs
+
+## Currently Exploring:
+
+I'm actively exploring Rust for its performance and safety benefits.
+
+## My Mission:
+
+Build systems that think, adapt, and scale.
