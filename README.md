@@ -2,7 +2,7 @@
 
 **Software and AI Architect focused on intelligent systems and automation**
 
-I design and build complete, intelligent systems—ranging from intuitive frontends to scalable backend infrastructure, AI-powered workflows, and automation pipelines.
+I design and build complete, intelligent systems-ranging from intuitive frontends to scalable backend infrastructure, AI-powered workflows, and automation pipelines.
 
 ## Expertise
 
