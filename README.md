@@ -15,7 +15,7 @@ I focus on blending strong architecture with smart automation, optimizing everyt
 
 ## My Projects:
 
-- **Picotat:** A Discord bot hosting platform with built-in plugin management and community tools ([https://www.picotat.com](https://www.picotat.com))
+- **Picotat:** A Discord bot hosting platform with built-in plugin management and community tools
 - **Egroo:** A privacy-first, cross-platform messaging platform
 - **llama.grammar:** A lightweight, expressive grammar engine for controlling LLM outputs
 
