@@ -8,7 +8,7 @@ I design and build complete, intelligent systems ranging from intuitive frontend
 
 - **Languages:** C#/.NET, TypeScript/JavaScript, C++, Rust  
 - **Frameworks:** Blazor, React, Node.js  
-- **AI:** LLM integration (OpenAI, llama.cpp, custom tooling)  
+- **AI/ML:** LLM integration (OpenAI, llama.cpp, custom tooling)  
 - **Systems:** Software architecture, embedded systems, smart automation (testing, CI/CD, internal processes)
 
 I focus on blending robust architecture with automation to eliminate bottlenecks, optimize development workflows, and enable adaptive software systems.
