@@ -8,7 +8,7 @@ I design and build complete, intelligent systems ranging from intuitive frontend
 
 - **Languages:** C#/.NET, TypeScript/JavaScript, C++, Rust  
 - **Frameworks:** Blazor, React, Node.js  
-- **AI/ML:** LLM integration (OpenAI, llama.cpp, custom tooling)  
+- **AI:** LLM integration (OpenAI, llama.cpp, custom tooling)  
 - **Systems:** Software architecture, embedded systems, smart automation (testing, CI/CD, internal processes)
 
 I focus on blending robust architecture with automation to eliminate bottlenecks, optimize development workflows, and enable adaptive software systems.
@@ -19,6 +19,7 @@ I focus on blending robust architecture with automation to eliminate bottlenecks
 - **Egroo** – Privacy-first, cross-platform messaging platform  
 - **llama.grammar** – Lightweight grammar engine for structured LLM output control  
 - **AI.FileOrganizer** – AI-powered file and folder organizer with automatic image classification
+- **MCP.FileSystem** – Comprehensive Model Context Protocol (MCP) server providing secure file system operations for AI assistants. Built with .NET 8, featuring file/directory management, advanced search capabilities, and Docker support.
 
 ## Currently Exploring
 
