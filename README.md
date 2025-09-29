@@ -6,7 +6,7 @@ I design and build complete, intelligent systems ranging from intuitive frontend
 
 ## Expertise
 
-- **Languages:** C#/.NET, TypeScript/JavaScript, C++, Rust  
+- **Languages:** C#/.NET, TypeScript/JavaScript, C++, Python
 - **Frameworks:** Blazor, React, Node.js  
 - **AI/ML:** LLM integration (OpenAI, llama.cpp, custom tooling)  
 - **Systems:** Software architecture, embedded systems, smart automation (testing, CI/CD, internal processes)
