@@ -1,31 +1,30 @@
 # About Me
 
-**Software and AI Architect focused on intelligent systems and automation**
+**Software and AI Architect specializing in intelligent systems, automation, and end-to-end product engineering**
 
-I design and build complete, intelligent systems ranging from intuitive frontends to scalable backend infrastructure, AI-powered workflows, and automation pipelines.
+I design and build software systems that combine strong architecture with practical AI. My work spans application architecture, backend infrastructure, developer tooling, AI integrations, and automation systems that reduce manual work and scale reliably.
 
 ## Expertise
 
-- **Languages:** C#/.NET, TypeScript/JavaScript, C++, Python
-- **Frameworks:** Blazor, React, Node.js  
-- **AI/ML:** LLM integration (OpenAI, llama.cpp, custom tooling)  
-- **Systems:** Software architecture, embedded systems, smart automation (testing, CI/CD, internal processes)
+- Software architecture and full-stack system design
+- AI-powered workflows, LLM integration, and custom tooling
+- Automation across testing, CI/CD, and internal engineering processes
+- Backend and platform development in C#/.NET, TypeScript/JavaScript, Python, and C++
+- Frontend and product development with Blazor, React, and Node.js
 
-I focus on blending robust architecture with automation to eliminate bottlenecks, optimize development workflows, and enable adaptive software systems.
+## Selected Projects
 
-## Projects
+- **Picotat** - Discord bot hosting platform with plugin management and community tooling
+- **Egroo** - Privacy-first cross-platform messaging platform
+- **llama.grammar** - Lightweight grammar engine for structured LLM output
+- **OneShotPrompt** - Agentic orchestration to finish a goal in one prompt
+- **MCP.FileSystem** - Secure MCP server for file system operations, search, and Docker-based deployment
 
-- **Picotat** – Discord bot hosting platform with plugin management and community tools  
-- **Egroo** – Privacy-first, cross-platform messaging platform  
-- **llama.grammar** – Lightweight grammar engine for structured LLM output control  
-- **AI.FileOrganizer** – AI-powered file and folder organizer with automatic image classification
-- **MCP.FileSystem** – Comprehensive Model Context Protocol (MCP) server providing secure file system operations for AI assistants. Built with .NET 8, featuring file/directory management, advanced search capabilities, and Docker support.
+## Current Focus
 
-## Currently Exploring
-
-- Systems-level programming and concurrency with Rust  
-- Enhanced LLM tooling and real-time integration strategies
+- Advanced LLM tooling and real-time AI integration
+- Systems programming and concurrency with Rust
 
 ## Mission
 
-Build systems that think, adapt, and scale.
+Build software that is intelligent, adaptable, and engineered to scale.
