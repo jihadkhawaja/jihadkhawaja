@@ -14,7 +14,7 @@ I design and build software systems that combine strong architecture with practi
 
 ## Selected Projects
 
-- **Picotat** - Discord bot hosting platform with plugin management and community tooling
+- **Picotat** - Plug-and-play workflow designer for hosting games, apps and services
 - **Egroo** - Privacy-first cross-platform messaging platform
 - **llama.grammar** - Lightweight grammar engine for structured LLM output
 - **OneShotPrompt** - Agentic orchestration to finish a goal in one prompt
